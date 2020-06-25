@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAvto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Avto>
+    <id>4</id>
+    <Znamka>BMW</Znamka>
+    <Model>M4</Model>
+    <cena>20000</cena>
+    <nov>da</nov>
+  </Avto>
+  <Avto>
+    <id>5</id>
+    <Znamka>Jaguar</Znamka>
+    <Model>F-type</Model>
+    <cena>60000</cena>
+    <nov>ne</nov>
+  </Avto>
+  <Avto>
+    <id>6</id>
+    <Znamka>Fiat</Znamka>
+    <Model>Punto</Model>
+    <cena>2000</cena>
+    <nov>da</nov>
+  </Avto>
+  <Avto>
+    <id>7</id>
+    <Znamka>Fiat</Znamka>
+    <Model>Punto</Model>
+    <cena>1000</cena>
+    <nov>ne</nov>
+  </Avto>
+  <Avto>
+    <id>8</id>
+    <Znamka>Fiat</Znamka>
+    <Model>Punto</Model>
+    <cena>1000</cena>
+    <nov>da</nov>
+  </Avto>
+</ArrayOfAvto>
